@@ -2,3 +2,5 @@ ini adalah tesing page 1
 selain itu juga ini merupakan testing pertama
 bagian ini adalah editan ke 2
 merupakan baris ke 4 pada bagian editan ke 2
+bagian ini adalah editan ke 3
+testing ini adalah baris ke 6
